@@ -26,10 +26,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1000-minimum-cost-to-merge-stones](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1000-minimum-cost-to-merge-stones](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
