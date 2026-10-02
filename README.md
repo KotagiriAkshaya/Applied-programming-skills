@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0257-binary-tree-paths/) | Easy |
+| [0344-reverse-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0075-sort-colors/) | Medium |
+| [0344-reverse-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
