@@ -72,6 +72,7 @@
 | [0735-asteroid-collision](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@
 | [0735-asteroid-collision](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +189,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
