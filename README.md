@@ -90,6 +90,7 @@
 | [0141-linked-list-cycle](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0901-online-stock-span/) | Medium |
@@ -168,6 +170,7 @@
 | [0141-linked-list-cycle](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -222,4 +225,5 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
