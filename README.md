@@ -91,6 +91,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
@@ -114,9 +115,11 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
