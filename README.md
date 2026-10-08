@@ -57,6 +57,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
+| [0735-asteroid-collision](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 ## Dynamic Programming
@@ -117,6 +118,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0735-asteroid-collision](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -151,5 +153,6 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0946-validate-stack-sequences/) | Medium |
 <!---LeetCode Topics End-->
