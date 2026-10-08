@@ -16,16 +16,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0257-binary-tree-paths/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -75,4 +78,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
