@@ -87,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0075-sort-colors/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0344-reverse-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0496-next-greater-element-i/) | Easy |
 ## Queue
@@ -157,6 +159,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
