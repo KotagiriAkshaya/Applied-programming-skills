@@ -85,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +103,12 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
