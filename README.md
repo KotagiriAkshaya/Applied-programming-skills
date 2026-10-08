@@ -68,6 +68,7 @@
 | [0075-sort-colors](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0496-next-greater-element-i](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0735-asteroid-collision](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -103,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0496-next-greater-element-i](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0496-next-greater-element-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0901-online-stock-span/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -195,6 +198,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
