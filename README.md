@@ -8,6 +8,7 @@
 | [0257-binary-tree-paths](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0735-asteroid-collision](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
