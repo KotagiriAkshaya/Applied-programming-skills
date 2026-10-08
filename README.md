@@ -163,6 +163,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -215,4 +216,8 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
