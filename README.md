@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 ## Dynamic Programming
@@ -90,6 +91,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -125,4 +127,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
