@@ -15,14 +15,17 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0257-binary-tree-paths/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -68,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
