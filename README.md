@@ -87,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0344-reverse-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0344-reverse-string/) | Easy |
@@ -105,6 +106,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -161,6 +163,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0622-design-circular-queue](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
@@ -210,5 +213,6 @@
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KotagiriAkshaya/Applied-programming-skills/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
